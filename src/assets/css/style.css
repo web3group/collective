@@ -422,7 +422,8 @@ a:active {
   font-weight: 600;
   background: rgba(0, 0, 0, 0)
     linear-gradient(90deg, rgb(23, 172, 255) 0%, rgb(193, 17, 255) 100%) repeat
-    scroll 0% 0% padding-box text;
+    scroll 0% 0%;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
