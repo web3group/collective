@@ -17,20 +17,19 @@ const Intelligence = () => {
           <div className="intelligence__top">
             <h2 className="intelligence__title">Collective Intelligence</h2>
             <p className="intelligence__text">
-              Our members were early collectors of some of the most sought-after
-              NFT projects. We believe in group bottoms-up-driven research. A
+              Our members are sophisticated investors in NFTS, and our ecosystem reaches from BAYC, Azuki to Whales across the globe. We believe in group bottoms-up-driven research. A
               collective working together is stronger than any single member.
             </p>
           </div>
           <div className="intelligence__stats">
             <div className="intelligence__stats-item intelligence__stats-item--members">
-              <span className="intelligence__stats-number">1,000</span>
+              <span className="intelligence__stats-number">10,000</span>
               <span className="intelligence__stats-text">Membership NFTs</span>
             </div>
             <div className="intelligence__stats-item intelligence__stats-item--nft">
-              <span className="intelligence__stats-number">153,940</span>
+              <span className="intelligence__stats-number">0.045</span>
               <span className="intelligence__stats-text">
-                Member Owned NFTs
+                Mint Price (ETH)
               </span>
             </div>
           </div>

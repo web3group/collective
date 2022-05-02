@@ -4,9 +4,9 @@ const CTA = () => {
   return (
     <div className="cta">
       <div className="cta__inner">
-        <p className="cta__text">COLLECTIVE SOLD OUT</p>
+        <p className="cta__text">MINT YOUR WHALE NFT MEMBERSHIP NOW</p>
         <a href="#" className="btn-footer">
-          Buy on Opensea
+          MINT NOW
         </a>
       </div>
     </div>

@@ -11,24 +11,24 @@ const Collaboration = () => {
             <h2 className="collaboration__title">Collaborations</h2>
             <p className="collaboration__text">
               Past and upcoming project collaborations available exclusively to
-              the PROOF Collective passholders community. More revealed in time.
+              the WHALE Collective passholders community. More revealed in time.
             </p>
           </div>
           <CollabItem
             image={grails}
             type="Original Collection"
-            title="Grails: Choose Wisely"
-            text="20 artists. 20 unique pieces of art. Artist names revealed only after the mint. Grails is an exclusive mint only available to PROOF Collective passholders. Each piece is a unique work of art made for the Grails drop in collaboration with some of the top artists in the space"
+            title="SpaceBirds: Upcoming Collection"
+            text="Unique NFT collections, Whale Collective members will always be whitelisted to Mint early with a Whale Discount."
             link="#"
-            linkText="Learn more"
+            linkText="Mint your Membership Now"
           />
           <CollabItem
             image={emotes}
-            type="Artist Collaborationn"
-            title="Emotes by Heart You"
-            text="Emotes are the first Proof + Artist PFP collaboration project featuring 1433 generated NFTs. Emotes was an exclusive drop for Proof and Heart You holders. Heart You is a project of self understanding, love and acceptance of the whole self, including our shadow self. “Emotes find their owners” Heart You says about these NFTs - encouraging the owner to explore the embedded messages and symbolism of the work."
+            type="Our Ecosystem"
+            title="Learn from the Alphas from Blue Chip NFTs"
+            text="Mirror and learn from the best investors, see their alpha discussions from: Bored Ape Yacht Club, Azuki, Anonymice, Moonbirds, Coolcats, Habibiz, Karafuru, Kaiju, Zombieclub, MVHQ."
             link="#"
-            linkText="View collection on OpenSea"
+            linkText="Mint your Membership Now"
           />
         </div>
       </div>

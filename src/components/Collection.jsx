@@ -10,12 +10,12 @@ const Collection = () => {
             <img src={proof} alt="" className="collection__image" />
           </div>
           <div className="collection__right">
-            <h2 className="collection__title">Proof Collective NFT</h2>
+            <h2 className="collection__title">Whale Collective NFT</h2>
             <p className="collection__text">
-              To join, one must hold the PROOF Collective NFT. Membership
-              includes access to our private Discord, early access to the PROOF
+              To join, one must hold the WHALE Collective NFT. Membership
+              includes access to our private Discord, early access to the WHALE
               podcast, in-person events, and other collaborations created
-              exclusively for PROOF Collective members.
+              exclusively for WHALE Collective members.
             </p>
             <a
               href="https://opensea.io/collection/proof-collective"

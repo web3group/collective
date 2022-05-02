@@ -11,7 +11,7 @@ const Hero = () => {
           </div>
           <div className="hero__content">
             <p className="hero__text">
-              A private members only collective of 1,000 dedicated NFT
+              A private members only collective of 10,000 dedicated NFT
               collectors and artists.
             </p>
           </div>
