@@ -4,9 +4,6 @@ import { brand } from './imports';
 const Hero = () => {
   return (
     <div className="hero">
-      <div className="relative">
-        <div className="absolute"></div>
-      </div>
       <div className="container">
         <div className="hero__inner">
           <div className="hero__logo">
