@@ -1,6 +1,6 @@
 import brand from '../assets/img/brand.svg';
 import proof from '../assets/img/proof-pass.svg';
-import grails from '../assets/img/grails-teaser.svg';
+import grails from '../assets/img/spacebirds.png';
 import emotes from '../assets/img/emotes-teaser.png';
 import cryptopunks from '../assets/img/bg-accent-cryptopunks.png';
 import apes from '../assets/img/bg-accent-bored-apes.png';

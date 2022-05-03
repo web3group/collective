@@ -12,7 +12,7 @@ const Hero = () => {
           <div className="hero__content">
             <p className="hero__text">
               A private members only collective of 10,000 dedicated NFT
-              collectors and artists.
+              collectors and artists. After Minting we get Proof access!
             </p>
           </div>
         </div>

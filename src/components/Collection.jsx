@@ -17,7 +17,7 @@ const Collection = () => {
               exclusively for WHALE Collective members.
             </p>
             <a
-              href="https://opensea.io/collection/proof-collective"
+              href="https://opensea.io/collection/whale-collective"
               className="btn collection-btn">
               <span className="text-icon">
                 <svg
