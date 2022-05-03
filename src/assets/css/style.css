@@ -31,9 +31,25 @@ html {
 body {
   font-family: 'Inter', sans-serif;
   background-color: var(--color-bg);
+}
+
+.relative {
+  position: relative;
+}
+
+.absolute {
+  position: absolute;
   background-image: url('../img/bg.svg');
-  background-repeat: no-repeat;
-  background-position: top center;
+  background-size: cover;
+  background-position: top;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  z-index: -1;
+  margin-bottom: -50%;
+  margin-top: -20%;
 }
 
 a,
@@ -440,6 +456,25 @@ a:active {
 }
 
 @media only screen and (max-width: 37.5em) {
+  .relative {
+    position: relative;
+  }
+
+  .absolute {
+    position: absolute;
+    background-image: url('../img/bg.svg');
+    background-size: cover;
+    background-position: top;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    z-index: -1;
+    margin-bottom: -335%;
+    margin-top: -40%;
+  }
+
   .button-container {
     justify-content: center;
     padding-top: 1.5rem;
