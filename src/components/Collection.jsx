@@ -13,8 +13,7 @@ const Collection = () => {
             <h2 className="collection__title">Whale Collective NFT</h2>
             <p className="collection__text">
               To join, one must hold the WHALE Collective NFT. Membership
-              includes access to our private Discord, early access to the WHALE
-              podcast, in-person events, and other collaborations created
+              includes access to our private Discord, which provides access to the most thought after Alpha chats from BAYC, Azuki and soon Proof! We also offer exclusive premiting for collaborations created
               exclusively for WHALE Collective members.
             </p>
             <a

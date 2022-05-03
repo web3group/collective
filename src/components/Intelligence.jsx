@@ -34,12 +34,12 @@ const Intelligence = () => {
             </div>
           </div>
           <div className="intelligence__nfts">
-            <NFT number="148" name="CryptoPunks" img={cryptopunks} />
-            <NFT number="817" name="Bored Apes" img={apes} />
-            <NFT number="499" name="Meebits" img={meebits} />
-            <NFT number="5,288" name="Art Blocks" img={artBlocks} />
-            <NFT number="326" name="SuperRare 1:1 NFTs" img={superrare} />
-            <NFT number="273" name="Metaverse" img={metaverse} />
+            <NFT number="Access" name="Bored Apes" img={cryptopunks} />
+            <NFT number="Access" name="Moonbirds" img={apes} />
+            <NFT number="Access" name="Coolcats" img={meebits} />
+            <NFT number="Access" name="Azuki" img={artBlocks} />
+            <NFT number="Access" name="Habibiz" img={superrare} />
+            <NFT number="Access" name="Otherland" img={metaverse} />
           </div>
         </div>
       </div>

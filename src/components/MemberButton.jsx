@@ -4,7 +4,7 @@ const MemberButton = () => {
   return (
     <div className="button-container">
       <a className="btn btn-member" href="https://www.ownerportal.xyz/proof/">
-        Mint Your Membersship Now
+        Mint Your Membership Now
       </a>
     </div>
   );
