@@ -25,7 +25,7 @@ const CollabItem = ({ image, title, type, text, link, linkText }) => {
               <path
                 d="m1 1 6 6-6 6"
                 stroke="currentColor"
-                stroke-width="2"></path>
+                strokeWidth="2"></path>
             </svg>
           </span>
         </a>

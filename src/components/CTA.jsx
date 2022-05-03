@@ -5,7 +5,7 @@ const CTA = () => {
     <div className="cta">
       <div className="cta__inner">
         <p className="cta__text">MINT YOUR WHALE NFT MEMBERSHIP NOW</p>
-        <a href="#" className="btn-footer">
+        <a href="/" className="btn-footer">
           MINT NOW
         </a>
       </div>
