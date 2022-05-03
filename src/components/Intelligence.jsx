@@ -1,12 +1,5 @@
 import React from 'react';
-import {
-  apes,
-  artBlocks,
-  cryptopunks,
-  meebits,
-  metaverse,
-  superrare
-} from './imports';
+
 import NFT from './NFT';
 
 const Intelligence = () => {
