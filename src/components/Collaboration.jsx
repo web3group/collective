@@ -19,7 +19,7 @@ const Collaboration = () => {
             type="Original Collection"
             title="SpaceBirds: Upcoming Collection"
             text="Unique NFT collections, Whale Collective members will always be whitelisted to Mint early with a Whale Discount."
-            link="#"
+            link="https://mint.whalecollective.io/"
             linkText="Mint your Membership Now"
           />
           <CollabItem
@@ -27,7 +27,7 @@ const Collaboration = () => {
             type="Our Ecosystem"
             title="Learn from the Alphas from Blue Chip NFTs"
             text="Mirror and learn from the best investors, see their alpha discussions from: Bored Ape Yacht Club, Azuki, Anonymice, Moonbirds, Coolcats, Habibiz, Karafuru, Kaiju, Zombieclub, MVHQ."
-            link="#"
+            link="https://mint.whalecollective.io/"
             linkText="Mint your Membership Now"
           />
         </div>
